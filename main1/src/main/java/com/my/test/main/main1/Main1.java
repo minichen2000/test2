@@ -11,5 +11,6 @@ public class Main1 {
         Util1.sayHello();
         System.out.print(" ");
         Util2.sayWorld();
+        System.out.println("");
     }
 }
